@@ -1,6 +1,6 @@
 # Recommendation Systems
 
-This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm
+This is a project on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm
 
 - **Theory**: ML & DL Formulation, Prediction vs. Ranking, Similiarity, Biased vs. Unbiased
 - **Paradigms**: Content-based, Collaborative filtering, Knowledge-based, Hybrid and Ensembles
